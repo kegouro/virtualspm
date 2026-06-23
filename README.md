@@ -9,3 +9,7 @@ Gemelo digital de un SPM: simula la medición, genera el archivo y lo analiza co
 │ Pharos Project · José Labarca Baeza
 └─ USM · Valparaíso · Chile
 ```
+
+---
+
+<sub>Parte del **[Pharos Project](https://kegouro.github.io)** — infraestructura científica y educativa sin barreras de entrada. · José Labarca Baeza</sub>
